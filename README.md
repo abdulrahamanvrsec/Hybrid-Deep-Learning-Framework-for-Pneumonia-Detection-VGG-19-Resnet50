@@ -18,6 +18,7 @@ To develop a robust, high-accuracy model for binary classification of X-ray imag
 The model combines:
 - 🔬 **VGG-19** for fine-grained feature extraction
 - 🧱 **ResNet50** for deeper residual learning
+- 📚 **Pyhton** Language and Librarys
 - 🧠 Fusion of both models' outputs followed by a **Dense + Softmax** layer for final classification
 
 ---
